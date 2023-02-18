@@ -1,0 +1,32 @@
+*{
+    background-color: silver;
+}
+h1{
+    text-align: center; 
+    font-size:30px;
+    margin-top: 50px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+button{
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+    padding:10px
+}
+
+a{
+    text-decoration: none;
+}
+a:link {
+    background-color: blue;
+    padding: none;
+    color: white; 
+    text-decoration: none;
+ }
+ button:hover {background-color: lightblue}
+
+ a:hover {background-color: lightblue}
